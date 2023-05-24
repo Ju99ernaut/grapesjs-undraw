@@ -1,6 +1,6 @@
 {
     "name": "grapesjs-undraw",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Grapesjs Undraw",
     "main": "dist/grapesjs-undraw.min.js",
     "repository": {
