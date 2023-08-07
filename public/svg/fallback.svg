@@ -1,0 +1,20 @@
+<svg viewBox="0 0 6 6" xmlns="http://www.w3.org/2000/svg">
+  <polygon class="d" points="0 4 0 4 3 0"></polygon>
+  <polygon class="c" points="3 6 6 4 3 0"></polygon>
+  <polygon class="f" points="3 6 6 2 0 2"></polygon>
+  <polygon class="c" points="0 4 0 2 0 2"></polygon>
+  <polygon class="f" points="6 4 6 4 6 2"></polygon>
+  <polygon class="f" points="3 0 0 4 3 6"></polygon>
+  <polygon class="a" points="3 0 6 2 3 0"></polygon>
+  <polygon class="f" points="3 6 0 2 0 4"></polygon>
+  <polygon class="e" points="0 2 3 0 3 0"></polygon>
+  <polygon class="c" points="3 0 0 4 3 0"></polygon>
+  <polygon class="a" points="6 4 0 2 0 4"></polygon>
+  <polygon class="c" points="3 6 6 4 3 0"></polygon>
+<style>.a { fill: rgb(235, 217, 0); fill-opacity: 1; }
+  .b { fill: rgb(255, 162, 159); fill-opacity: 0.71; }
+  .c { fill: rgb(255, 192, 203); fill-opacity: 0.82; }
+  .d { fill: rgb(149, 126, 165); fill-opacity: 0.86; }
+  .e { fill: rgb(192, 0, 135); fill-opacity: 0.82; }
+  .f { fill: rgb(0, 0, 0); fill-opacity: 0.5; }
+</style></svg>
