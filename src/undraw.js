@@ -130,7 +130,7 @@ export default class Undraw extends UI {
               </a>
             </h2>
             <div class="svg-meta" title="${tags}">
-              <a href="#" target="_blank" rel="noopener noreferrer">
+              <a href="#" rel="noopener noreferrer">
                 ${tags.slice(0, 30)}...
               </a>
             </div>

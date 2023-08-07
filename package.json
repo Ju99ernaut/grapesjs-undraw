@@ -1,8 +1,8 @@
 {
     "name": "grapesjs-undraw",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Grapesjs Undraw",
-    "main": "dist/grapesjs-undraw.min.js",
+    "main": "dist/index.js",
     "repository": {
         "type": "git",
         "url": "https://github.com/Ju99ernaut/grapesjs-undraw.git"
@@ -11,7 +11,7 @@
         "start": "grapesjs-cli serve",
         "build": "grapesjs-cli build",
         "build:css": "sass src/styles.scss dist/grapesjs-undraw.min.css --style compressed",
-        "watch:scss": "sass --watch src/styles.scss dist/grapesjs-undraw.min.css --style compressed",
+        "watch:scss": "sass --watch src/styles.scss public/grapesjs-undraw.min.css --style compressed",
         "bump": "npm version patch -m 'Bump v%s'"
     },
     "keywords": [
@@ -19,7 +19,7 @@
         "plugin"
     ],
     "devDependencies": {
-        "grapesjs-cli": "^1.0.15",
+        "grapesjs-cli": "^4.1.1",
         "sass": "^1.32.8"
     },
     "license": "MIT"

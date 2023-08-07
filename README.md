@@ -2,7 +2,7 @@
 
 Add undraw illustrations through a modal
 
-[DEMO](https://blocomposer.app)
+[DEMO](#)
 
 ### HTML
 ```html
@@ -124,10 +124,10 @@ Install dependencies
 $ npm i
 ```
 
-Build sass
+Watch sass
 
 ```sh
-$ npm run build:css
+$ npm run watch:scss
 ```
 
 Start the dev server
@@ -140,6 +140,12 @@ Build the source
 
 ```sh
 $ npm run build
+```
+
+Build css
+
+```sh
+$ npm run build:css
 ```
 
 ## License
